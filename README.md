@@ -16,10 +16,20 @@ This is a full-stack web application designed to manage a list of items. It feat
 
 ## Features
 -   **View All Items**: The homepage displays a list of all available items from the database.
+![homepage](https://github.com/user-attachments/assets/66419cd3-e9ea-4879-87ab-5ec5f6dd70b1)
+
 -   **View Item Details**: Click on an item to see its dedicated page with full details.
+![view-item](https://github.com/user-attachments/assets/d0070ebd-17a0-4045-815b-a573731c8e82)
+
 -   **Create New Items**: A user-friendly form allows for the creation of new items with validation.
+![create-item](https://github.com/user-attachments/assets/fd5b5873-0bdd-4c74-a758-43ea4e15d158)
+
 -   **Update Items**: Edit the details of an existing item.
+![update-item](https://github.com/user-attachments/assets/d1ea1edd-d00f-4b27-ac8e-ccd1e3bf0d44)
+
 -   **Delete Items**: Remove an item from the database.
+![delete-item](https://github.com/user-attachments/assets/b0851f0b-8219-40ed-af9c-459853c8d6a2)
+
 
 ## Tech Stack
 
@@ -43,9 +53,9 @@ This is a full-stack web application designed to manage a list of items. It feat
 Follow these instructions to get the project up and running on your local machine.
 
 ### Prerequisites
--   **Node.js & npm**: [Download & Install Node.js](https://nodejs.org/en/download/) (npm is included)
--   **Python & pip**: [Download & Install Python](https://www.python.org/downloads/) (pip is included)
--   **Git**: [Download & Install Git](https://git-scm.com/downloads)
+-   **Node.js & npm**
+-   **Python & pip**
+-   **Git**
 
 ### Installation & Setup
 
@@ -126,7 +136,7 @@ You will need two separate terminal windows to run both the backend and frontend
     ```bash
     flask run
     ```
-    The API is now running, typically at `http://127.0.0.1:5000`.
+    The API is now running.
 
 ### Frontend (Next.js App)
 
